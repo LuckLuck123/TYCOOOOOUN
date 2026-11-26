@@ -1,0 +1,16 @@
+initiale,name,price,materials,rentabilise,taille,upgrade_price,maintenance
+D,dalton terreur,10000,50,500,"3X3",5000,100
+M,montagnes russes,25000,120,1500,5X5,12000,300
+G,grande roue,18000,90,1100,4X4,9000,200
+C,carrousel,4000,20,250,2X2,2000,40
+A,autos tamponneuses,7000,40,450,3X3,3500,80
+T,train fantome,9000,55,550,3X3,4500,110
+R,riviere sauvage,20000,100,1300,4X4,10000,250
+B,bateau pirate,12000,70,700,3X3,6000,140
+U,tasses tournantes,3500,15,200,2X2,1800,35
+L,labyrinthe de miroirs,3000,15,180,2X2,1500,30
+S,stand de tir,1500,8,120,1X1,700,15
+I,stand de glaces,1200,5,100,1X1,600,10
+E,restaurant,6000,30,400,2X2,3000,60
+O,boutique souvenirs,2500,10,200,2X2,1200,20
+W,toilettes,800,5,0,1X1,400,10
